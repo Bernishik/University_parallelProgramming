@@ -1,0 +1,1 @@
+mpicc -g CMakeFiles/lab9.dir/lab9.c.o -o lab9 

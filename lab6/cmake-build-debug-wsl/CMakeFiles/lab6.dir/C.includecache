@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/paralProg/lab6/lab6.c
+mpi.h
+/mnt/d/paralProg/lab6/mpi.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -pthread CMakeFiles/lab5.dir/lab5.c.o -o lab5  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so 

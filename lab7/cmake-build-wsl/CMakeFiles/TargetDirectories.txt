@@ -1,0 +1,3 @@
+/mnt/d/paralProg/lab7/cmake-build-wsl/CMakeFiles/rebuild_cache.dir
+/mnt/d/paralProg/lab7/cmake-build-wsl/CMakeFiles/edit_cache.dir
+/mnt/d/paralProg/lab7/cmake-build-wsl/CMakeFiles/lab7.dir

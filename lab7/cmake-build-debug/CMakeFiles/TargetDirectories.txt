@@ -1,0 +1,3 @@
+D:/paralProg/lab7/cmake-build-debug/CMakeFiles/lab7.dir
+D:/paralProg/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/paralProg/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /mnt/d/paralProg/lab9
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/paralProg/lab9/cmake-build-debug-wsl

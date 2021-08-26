@@ -1,0 +1,5 @@
+D:/paralProg/lab12/cmake-build-debug-visual-studio/CMakeFiles/lab12.dir
+D:/paralProg/lab12/cmake-build-debug-visual-studio/CMakeFiles/lab12_2.dir
+D:/paralProg/lab12/cmake-build-debug-visual-studio/CMakeFiles/lab12_3.dir
+D:/paralProg/lab12/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+D:/paralProg/lab12/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

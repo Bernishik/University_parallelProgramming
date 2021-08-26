@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files (x86)/Microsoft SDKs/MPI/Include/mpi.h
+stdint.h
+-
+sal.h
+-
+stdint.h
+-
+
+D:/paralProg/lab6/lab6.c
+mpi.h
+D:/paralProg/lab6/mpi.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

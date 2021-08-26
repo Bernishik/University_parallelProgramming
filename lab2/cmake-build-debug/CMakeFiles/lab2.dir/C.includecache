@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/paralProg/lab2/main.c
+stdio.h
+-
+omp.h
+-
+locale.h
+D:/paralProg/lab2/locale.h
+stdio.h
+-
+windows.h
+-
+math.h
+D:/paralProg/lab2/math.h
+time.h
+-
+stdlib.h
+D:/paralProg/lab2/stdlib.h
+unistd.h
+-
+

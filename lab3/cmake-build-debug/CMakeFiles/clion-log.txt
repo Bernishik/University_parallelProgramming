@@ -1,0 +1,6 @@
+"D:\Project\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\paralProg\lab3
+-- Found OpenMP_C: -fopenmp  
+-- Found OpenMP: TRUE   
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/paralProg/lab3/cmake-build-debug

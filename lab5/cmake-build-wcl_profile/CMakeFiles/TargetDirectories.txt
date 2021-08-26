@@ -1,0 +1,3 @@
+/mnt/d/paralProg/lab5/cmake-build-wcl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/d/paralProg/lab5/cmake-build-wcl_profile/CMakeFiles/edit_cache.dir
+/mnt/d/paralProg/lab5/cmake-build-wcl_profile/CMakeFiles/lab5.dir
